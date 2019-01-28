@@ -1,4 +1,0 @@
-*.pyc
-build/*
-site/_site/*
-site/.sass-cache/*
