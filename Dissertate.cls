@@ -79,13 +79,6 @@
 \RequirePackage{setspace}
 \RequirePackage{verbatim}
 
-% math font
-% \usepackage{xfrac,unicode-math}
-% \defaultfontfeatures{Scale=MatchLowercase}
-% \usepackage{mathpazo}
-\everymath{\mathtt{\xdef\tmp{\fam\the\fam\relax}\aftergroup\tmp}}
-
-
 
 % Fonts.
 \RequirePackage{color}
@@ -95,8 +88,8 @@
 \RequirePackage{amssymb}
 \RequirePackage{mathspec}
 \RequirePackage{upgreek} %for greek alphabet
-\setmathsfont(Digits,Latin,Greek)[Numbers={Proportional}]{EB Garamond}
-\setmathrm{EB Garamond}
+% \setmathsfont(Digits,Latin,Greek)[Numbers={Proportional}]{EB Garamond}
+% \setmathrm{EB Garamond}
 \AtBeginEnvironment{tabular}{\addfontfeature{RawFeature=+tnum}}
 \widowpenalty=300
 \clubpenalty=300
