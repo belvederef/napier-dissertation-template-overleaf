@@ -1,7 +1,7 @@
 # Napier Dissertation Template for Overeaf/Sharelatex
 [![License](https://img.shields.io/badge/license-AGPL-FBB829.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
 
-This template has been appositely twiked for writing theses or dissertations in Overleaf/Sharelatex, but it makes a good general purpose template too.
+This template has been appositely tweaked for writing theses or dissertations in Overleaf/Sharelatex, but it makes a good general purpose template too.
 
 [Here's an example](https://s3.amazonaws.com/dissertate.io/generic.pdf)
 of the original Dissertate template. However, this version is slighly different, uses different Latex packages and was personalised with the Napier University brand colours.
