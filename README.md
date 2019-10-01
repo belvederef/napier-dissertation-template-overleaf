@@ -4,7 +4,7 @@
 This template has been appositely tweaked for writing theses or dissertations in Overleaf/Sharelatex, but it makes a good general purpose template too.
 
 [Here's an example](https://s3.amazonaws.com/dissertate.io/generic.pdf)
-of the original Dissertate template. However, this version is slighly different, uses different Latex packages and was personalised with the Napier University brand colours.
+of the original Dissertate template. However, this version is slighly different, uses different Latex packages and was customised using the Napier University brand colours.
 
 #### Usage ####
 Simply download the ZIP of this project via the green button at the top right, then import it in your favourite editor (e.g. Overleaf) and start writing!
