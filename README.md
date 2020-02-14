@@ -7,7 +7,7 @@ This template has been appositely tweaked for writing theses or dissertations in
 of the original Dissertate template. However, this version is slighly different, uses different Latex packages and was customised using the Napier University brand colours.
 
 #### Usage ####
-Simply download the ZIP of this project via the green button at the top right, then import it in your favourite editor (e.g. Overleaf) and start writing!
+Simply download a ZIP of this project via the green button at the top right ("clone or download"), then import it in your favourite editor (e.g. Overleaf) and start writing!
 
 Make sure to use the <b>XeLaTeX</b> compiler. In Overleaf, you can change this from the sidebar menu.
 
